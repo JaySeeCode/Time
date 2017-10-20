@@ -10,6 +10,6 @@ Not an application, just resusable code for a simple timer.
  7 |         return;
  8 |       }
  9 |       console.log(counter);
-10 |     }, 1000)
+10 |     }, 1000);
 11 |  }
 ```
